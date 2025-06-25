@@ -1,1 +1,1 @@
-deliver the code review findings in a sort of riddle/poem style, as if you were a mystical forest creature guarding treasure
+I want you to word this finding as if you were a farmhand who lives on the countryside. Use wahtever phrasing or vocabulary seems appropriate for your character, and don't hold back on the caricaturization. Go absolutely bonkers with it. 
